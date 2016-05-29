@@ -1,4 +1,4 @@
-#Identifying students at risk accurately and early
+#Identifying students at risk accurately and early 
 
 <a href="http://www.montgomeryschoolsmd.org/"><img src="http://dssg.uchicago.edu/img/partners/mcps.png" width="300" align="right"></a>
 
